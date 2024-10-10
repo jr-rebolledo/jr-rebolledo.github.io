@@ -1,2 +1,2 @@
-# jr-rebolledo.github.io
-trajectory
+# J.R. Rebolledo
+Data and ML Strategy
